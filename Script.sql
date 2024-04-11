@@ -36,7 +36,7 @@ where nome_completo like 'A%';
 
 
 select * from dados
-where nome_completo like 'S%';
+where nome_completo like '%s';
 
 
 select * from dados
